@@ -1,0 +1,7 @@
+{
+    "DISCORD_BOT" : {
+        "TOKEN" : "",
+        "PREFIX" : "?",
+        "NICKNAME" : "SOME BOT"
+    }
+}

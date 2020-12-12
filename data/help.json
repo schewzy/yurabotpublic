@@ -1,0 +1,14 @@
+{
+    "helpMsg1": [
+        "`kick`, `ban`, `lock`, `mute`, `unmute`, `prune`, `addreactions`, `editreaction`, `addrole`, `delrole` "
+        ],
+    "helpMsg2": [
+        "`roll`"
+        ],
+    "helpMsg3": [
+        "`avatar`, `profile`, `ping`"
+        ],
+    "helpMsg4": [
+        "`neko`, `nekogif`"
+        ]
+}
